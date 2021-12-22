@@ -1,0 +1,17 @@
+.row {
+  display: flex;
+  flex-direction: row;
+  width: auto;
+  height: auto;
+  padding: 1rem;
+  /* margin: 1rem; */
+}
+
+.column {
+  display: flex;
+  flex-direction: column;
+  width: auto;
+  height: auto;
+  padding: 1rem;
+  /* margin: 1rem; */
+}
